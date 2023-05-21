@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hola, Soy Fabian. 👋 😄
+También conocido como **Fab1chapulino** en github.
+
+## ¿Quién soy? 🤔
+ Soy un **Full Stack Developer** egresado de _SoyHenry_ Bootcamp y me espacializo en el área de **Back-end.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Fab1chapulino/Fab1chapulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
